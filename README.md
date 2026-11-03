@@ -1,10 +1,8 @@
-# Exercices de surcharge (C++) - Code::Blocks
+ex 1 : 
+<img width="1280" height="720" alt="ex1" src="https://github.com/user-attachments/assets/43383184-7deb-468b-8e78-ca0edde9649a" />
 
-Ouvrir `surcharge.workspace` avec Code::Blocks (3 projets, un par exercice).
-Clic droit sur un projet > *Activate project*, puis F9 (Build and run).
+ex 2 : 
+<img width="1280" height="720" alt="ex2" src="https://github.com/user-attachments/assets/8bc142a9-b2a1-43e9-bc66-908ffd582d46" />
 
-| Exercice | Dossier | Notion |
-|---|---|---|
-| 1 | `exo01_contact/` | Surcharge de constructeurs |
-| 2 | `exo02_facture/` | Surcharge de methodes, `std::vector` |
-| 3 | `exo03_compte_bancaire/` | Constructeurs et methodes `retrait` surchargees |
+ex 3 : 
+<img width="1280" height="720" alt="ex3" src="https://github.com/user-attachments/assets/5b4d4f3c-b4d5-4939-a4b6-96425a6f1a78" />
