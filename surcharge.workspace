@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Surcharge C++">
+		<Project filename="exo01_contact/exo01_contact.cbp" active="1" />
+		<Project filename="exo02_facture/exo02_facture.cbp" />
+		<Project filename="exo03_compte_bancaire/exo03_compte_bancaire.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
